@@ -1,1 +1,3 @@
 configs for octoprint
+2022-07-23 -> may increase voltage of xy motors from 0.8V to 1V (or 1.1V) to avoid layer shifts 
+              (source: https://www.reddit.com/r/VORONDesign/comments/w43cma/layer_shift_at_varying_heights_but_seemingly_in/)
